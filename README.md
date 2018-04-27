@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 27, 2018)
 
 ### Student Name:  
-(First and Last Name)
+Thomas O'Mara
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This Project uses AJAX, which allows web developers to use API's from other sources in order to have access to their databases. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tomara95.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. API's are databases in which you can use for your website on a particular topic like movies, sports, etc. 
+2. JSON stands for JavaScript Object Notation it's a syntax for storing and exchanging data. It is also a subset of JavaScript.
+3. XMLHttpRequest (XHR) is an API in the form of an object whose methods transfer data between a web browser and a web server.
